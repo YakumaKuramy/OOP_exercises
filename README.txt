@@ -1,5 +1,5 @@
 This repository contains exercises to help
-devolp the skills need to make use of object 
+devolop the skills need to make use of object 
 oriented programing with java.
 
 There are two main directorys, basic java
