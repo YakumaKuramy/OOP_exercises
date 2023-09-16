@@ -6,4 +6,4 @@ the book. Take a look at the "Book.java"
 file to understand how the constructor
 will be working.
 
-The output message has alredy been resolved.
+The output message has alredy been solved.

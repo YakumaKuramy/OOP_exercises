@@ -7,4 +7,5 @@ set an author name, the release year and a title.
 For now you don't need any input and the object only
 has attributes.
 
-To help you there a template file named "Main.java". 
+To help you there is a template file named
+"Main.java". 

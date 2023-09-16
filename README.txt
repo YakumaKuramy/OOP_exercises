@@ -1,15 +1,15 @@
 This repository contains exercises to help
-devolop the skills need to make use of object 
-oriented programing with java.
+devolop the skills needed for making use of
+object oriented programing with java.
 
 There are two main directorys, basic java
-and an object oriented programing,
-that are divided into smaller directories 
-that contain exercises.
+and an object oriented, that are divided 
+into smaller directories with exercises.
 
-For each exercise there is a README file
-explaining what is wanted on the exercise.
+For each exercise there is a README.txt 
+file explaining what is wanted in it.
 
 To compile code in java its recommend to use
 the command " javac *.java " inside the
-exercise directory.
+exercise directory, so you can compile all
+the java files inside that directory.
